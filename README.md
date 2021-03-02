@@ -1,24 +1,8 @@
-# traffic-final
+# Seattle I-405 CHANGES
+Travel Time Analysis of the Toll Lane Implementation
 
-Game Plan:
+- Analyzed average travel time on I-405 corridor before and after the introduction of new Express Toll Lane. 
+- Helped the Washington State Department of Transportation to evaluate the performance of policies. 
+- Recoded multi-sources data, and visualized the report using R libraries (Leaflet, dplyr, plotly, shiny and jsonlite) and JavaScript.
 
-Joycie: working on backup plan 
-
-George, Denny, Esteban: work on the map part. (and assist with the backup plan)
-
-
-<br>Meeting times:
-<br>SUN 1:20
-<br>MON: 4:30
-<br>TUES: 3:30 
-<br>THURS: 6 (hopefully we'll be done by now but we shall see)
-
-
-
-<br>parts:
-<br>- map( before and after)
-<br>- slider bar spans across page (connects to both graphs  so it changes simultaneously)
-<br>- drop down menu that changes dataset of corridors used
-<br>- summary table
-<br>- scatter plot showing difference of travel times
-<br>- display in minutes
+Live view: https://georgehua.shinyapps.io/I-405/
